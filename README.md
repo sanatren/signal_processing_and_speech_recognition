@@ -13,13 +13,21 @@ PyTorch Integration: Implement deep learning models for audio classification and
 ## Repository Structure
 
 1-input_speech: Basic audio manipulation including reading, writing, and visualizing WAV files
+
 2-Audio&DL through Pytorch: Integration of PyTorch for deep learning on audio signals
+
 3-Extracting time domain features: Scripts for temporal feature extraction
+
 4-Extracting RMSenergy and Zero crossing rate: Implementation of RMS energy and ZCR calculations
+
 5-fourier transform for waves: Basic implementation of the Fourier Transform for wave analysis
+
 6-fourier transform with complex numbers: Advanced Fourier analysis using complex number representation
+
 7-extracting fourier transform from audios: Application of Fourier techniques to real audio signals
+
 8-Extracting spectrograms from audio: Generation of spectrograms for feature extraction
+
 9-extracting-mel-spectograms: Implementation of Mel-scale spectrogram extraction
 
 ### Technologies Used
@@ -31,3 +39,4 @@ Matplotlib
 PyTorch
 Librosa (for audio processing)
 Wave (for WAV file manipulation
+Ipython
